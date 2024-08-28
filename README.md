@@ -3,6 +3,7 @@
 ## Sobre Mim:
 
 - Estudando...
+- Graduando em Engenharia de Software
 - Compartilho alguns projetos aqui
 - Procurando novos desafios
 
